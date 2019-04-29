@@ -50,7 +50,7 @@
                         borderColor: "#8e5ea2",
                         fill: false
                     }, {
-                        data: [5,20, 30, 21, 23, 24, 20],
+                        data: [5,20, 30, 22, 23, 24, 20],
                         label: "Workshop",
                         borderColor: "#3cba9f",
                         fill: false
