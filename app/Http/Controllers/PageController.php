@@ -11,4 +11,8 @@ class PageController extends Controller
         return view('pages.individual');
     }
 
+    public function dashboard(){
+        return view('pages.dashboard');
+    }
+
 }

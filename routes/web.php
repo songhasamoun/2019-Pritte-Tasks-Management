@@ -50,6 +50,10 @@ Route::get('group', function() {
 Route::get('user',function() {
     return view('pages.users.user');
 });
+
+Route::get('dashboard',function(){
+    return view('pages.dashboard');
+});
 // -----
 
 /*=============================================================================
